@@ -23,7 +23,7 @@
 
     <div class="home-container">
         <div class="home-left">
-        <p class="welocomee">Selamat datang</p>
+        <p class="welocomee">Welcome To</p>
         <h1 class="welcome">My Company</h1>
         <a href="#row"><div class="scroll-row">
             <p class="scroll-text">Scroll Down <br> v</p>

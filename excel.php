@@ -43,7 +43,7 @@ header("Content-Disposition: attachment; filename=Data Pegawai.xls");
 	?>
 
 <center>
-		<h2>Data Pegawai My Company</h2>
+		<h2>Employee Data of My Company</h2>
 	</center>
     
 	<center><table rules="all" style="width: 80%;">
